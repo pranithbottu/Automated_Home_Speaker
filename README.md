@@ -1,4 +1,4 @@
-## Automated_Home_Speaker
+# Automated_Home_Speaker
 This was a personal project of mine where I created an automated home speaker system from scratch using C. 
 
 # Parts Used:
